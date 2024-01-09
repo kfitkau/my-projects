@@ -17,4 +17,4 @@ Table of Contents
 
 ## Contact
 
-Feel free to reach out if you have any questions, suggestions, or if you're interested in collaboration. You can find me on [LinkedIn](https://www.linkedin.com/in/your-username) 
+Feel free to reach out if you have any questions, suggestions, or if you're interested in collaboration. You can find me on [LinkedIn](https://www.linkedin.com/in/kevin-fitkau/) 
