@@ -54,12 +54,14 @@ You can see the results at [this repository](https://github.com/kfitkau/my-proje
  ```
 
 ## Usage
-Open the GermEval21 at http://localhost:8888/lab/tree/germeval21.ipynb and run the cells.
-This is my Approach to the Task with finetuning the library models for sequence classification on the models: "german-nlp-group/electra-base-german-uncased"
-In cell 7 you can exchange the model name with any other model that is aligned for text classification.
-To do this, you can select other models at [https://huggingface.co/models](https://huggingface.co/models) using the "Text Classification" filter.
+Open the GermEval21 at http://localhost:8888/lab/tree/germeval21.ipynb and run the cells.\
+This is my Approach to the Task with finetuning the library models for sequence classification on the models: "german-nlp-group/electra-base-german-uncased"\
+In cell 7 you can exchange the model name with any other model that is aligned for text classification.\
+To do this, you can select other models at [https://huggingface.co/models](https://huggingface.co/models) using the "Text Classification" filter.\
 Click on a model and copy model name to clipboard (example: "ml6team/distilbert-base-german-cased-toxic-comments") and put it in cell 7 at model_name.
-Example: model_name = 'german-nlp-group/electra-base-german-uncased' -> model_name = 'ml6team/distilbert-base-german-cased-toxic-comments'
+
+Example:\
+model_name = 'german-nlp-group/electra-base-german-uncased' -> model_name = 'ml6team/distilbert-base-german-cased-toxic-comments'
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
