@@ -15,6 +15,11 @@ Table of Contents
 - **Technologies:** Python, Wandb, Numpy, transformers, pytorch
 - **Link**: [Click here](https://github.com/kfitkau/my-projects/blob/main/germeval21/)
 
+### [Project 3: StableDiffusion UI]
+- **Description:** The simple Stable Diffusion UI offers a user-friendly platform for exploring diffusion processes with StabilityAI's StableDiffusion
+- **Technologies:** Python, Numpy, transformers, pytorch, Pillow (PIL Fork)
+- **Link** [Click here](https://github.com/kfitkau/my-projects/blob/main/stablediffusion_ui/)
+
 ## Contact
 
 Feel free to reach out if you have any questions, suggestions, or if you're interested in collaboration. You can find me on [LinkedIn](https://www.linkedin.com/in/kevin-fitkau/) 
