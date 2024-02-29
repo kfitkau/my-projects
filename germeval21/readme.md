@@ -13,7 +13,7 @@ Germeval is a shared task and evaluation campaign for natural language processin
 
 ## Getting Started
 
-You can see the results at [this repository](https://github.com/kfitkau/my-projects/tree/main/germeval21/germeval21.pdf), but if you want to try out the Jupyter Notebook yourself, you should follow these instructions:
+You can view the results in English in [this repository](https://github.com/kfitkau/my-projects/tree/main/germeval21/germeval21_english.pdf) and in German in [this one](https://github.com/kfitkau/my-projects/tree/main/germeval21/germeval21_german.pdf). However, if you would like to try out the Jupyter Notebook yourself, please follow these instructions:
 
 ### Prerequisites
 
