@@ -1,0 +1,40 @@
+.root {
+    -fx-background-color: #191919;
+}
+
+.gridPane {
+    -fx-background-color: white;
+}
+
+.cell {
+    -fx-background-color: derive(#191919, 15%);
+    -fx-border-color: #191919;
+    -fx-border-width: 0.8;
+}
+
+.alive-cell {
+    -fx-background-color: white;
+}
+
+.button {
+    -fx-background-color: derive(#191919, 15%);
+    -fx-text-fill: white;
+    -fx-font-size: 12;
+    -fx-pref-width: 65px;
+}
+
+.button:pressed {
+    -fx-text-fill: #191919;
+}
+
+.button:hover {
+    -fx-background-color: derive(#191919, 40%)
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.slider:focused{
+    -fx-focus-color: white;
+}
