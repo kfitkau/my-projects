@@ -2,6 +2,7 @@
 
 <br />
 <div align="center">
+![Project Video](https://github.com/kfitkau/my-projects/assets/50326785/4ba9a84d-adc2-46a4-9426-bdd816d2ea81)
 
 <h3 align="center">Conway's Game of Life - JavaFX Implementation</h3>
 
