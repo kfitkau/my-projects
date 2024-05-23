@@ -2,7 +2,6 @@
 
 <br />
 <div align="center">
-![Project Video](https://github.com/kfitkau/my-projects/assets/50326785/4ba9a84d-adc2-46a4-9426-bdd816d2ea81)
 
 <h3 align="center">Conway's Game of Life - JavaFX Implementation</h3>
 
@@ -10,8 +9,6 @@
     Welcome to the GitHub repository for my JavaFX implementation of Conway's Game of Life! This project visually simulates the cellular automaton devised by mathematician John Conway. I'm using SceneBuilder for the interface design. The application features play, pause, and reset buttons, allowing users to control the simulation's progress easily. Users can observe the evolution of the cell grid over time according to Conway's rules of birth, death, and survival.
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -41,6 +38,8 @@
 ## About The Project
 
 This is a JavaFX implementation of Conway's Game of Life! It's using SceneBuilder for the interface design. The application features play, pause, and reset buttons, allowing users to control the simulation's progress easily. Users can observe the evolution of the cell grid over time according to Conway's rules of birth, death, and survival. The Game of Life, created by mathematician John Horton Conway in 1970, is a cellular automaton that functions as a zero-player game. Its progression depends solely on its initial configuration, with no additional input required. The game's grid is an infinite, two-dimensional array of square cells, each of which can be either alive or dead. The state of each cell is influenced by its eight neighboring cells. The evolution of the grid follows four rules: a living cell with fewer than two or more than three live neighbors dies, a living cell with two or three live neighbors survives, and a dead cell with exactly three live neighbors becomes alive. These rules are applied simultaneously to all cells to form each new generation. The Game of Life is Turing complete, capable of simulating any Turing machine, making it a powerful computational model.
+
+https://github.com/kfitkau/my-projects/assets/50326785/4686c58d-cc2f-4e0c-9dce-af4584224f18
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
