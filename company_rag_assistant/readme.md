@@ -23,6 +23,8 @@ It combines:
 
 to provide accurate, source-grounded answers without relying on external APIs.
 
+https://github.com/user-attachments/assets/9e9add50-5741-4488-9529-9acd77e24b78
+
 ---
 
 ## Features
