@@ -7,6 +7,7 @@ Table of Contents
   * [StableDiffusion UI](#stablediffusion-ui)
 * [Natural Language Processing](#natural-language-processing)
   * [GermEval21](#germeval21)
+  * [Company Knowledge RAG Assistant](#company-knowledge-rag-assistant)
 
 [Game/Simulation Projects](#gamesimulation-projects)
 * [Simulation](#simulation)
@@ -36,6 +37,16 @@ Table of Contents
 - **Description:** Germeval21, short for 'German Evaluation Campaign of Natural Language Processing and Computational Linguistics Systems,' is a pivotal event in the world of natural language processing and computational linguistics. Germeval 2021 Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments
 - **Technologies:** Python, Wandb, Numpy, transformers, pytorch
 - **Link**: [Click here](https://github.com/kfitkau/my-projects/blob/main/germeval21/)
+
+#### [Company Knowledge RAG Assistant]
+- **Description:** A local Retrieval-Augmented Generation (RAG) system designed to query and interact with internal company documents. The system combines semantic vector search (ChromaDB) with keyword-based retrieval (BM25) and cross-encoder reranking to provide highly relevant context to a local LLM (Ollama). It supports document ingestion, hybrid retrieval, and real-time streaming responses via a FastAPI backend and Streamlit frontend. The assistant ensures answers are grounded in provided documents and includes transparent source attribution for each response.
+- **Highlights:**
+  - Hybrid retrieval (Vector + BM25)
+  - Cross-encoder reranking for improved relevance
+  - Streaming LLM responses (token-based)
+  - Fully local setup (no external APIs)
+- **Technologies:** Python, FastAPI, Streamlit, ChromaDB, SentenceTransformers, BM25, CrossEncoder, Ollama, Docker
+- **Link**: [Click here](https://github.com/kfitkau/my-projects/blob/main/company_rag_assistant/)
 
 ---
 
