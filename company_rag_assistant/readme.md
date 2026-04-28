@@ -111,7 +111,7 @@ You can change the model in `.env`.
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/kfitkau/my-projects.git
+git clone https://github.com/kfitkau/myprojects.git
 ```
 
 2. Navigate into the project:

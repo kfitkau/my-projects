@@ -25,7 +25,7 @@ You can view the results in English in [this repository](https://github.com/kfit
 1. Clone the repository to your local machine:
 
  ```bash
-   git clone https://github.com/kfitkau/my-projects.git
+   git clone https://github.com/kfitkau/myprojects.git
  ```
 
 2. Navigate to germeval21

@@ -70,7 +70,7 @@ Step 1: Clone the Repository
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following command
 ```git
-git clone https://github.com/kfitkau/my-projects.git
+git clone https://github.com/kfitkau/myprojects.git
 ```
 For this Project you only need the folder "GameOfLife"
 
